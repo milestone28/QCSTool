@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="QCS Tool.exe.manifest" size="8400">
+    <dependentAssembly dependencyType="install" codebase="QCS Tool.exe.manifest" size="8390">
       <assemblyIdentity name="QCS Tool.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ee4PPfekLzddqAIYXfK1WvW905Iycj+h/LIjB5Zx3pI=</dsig:DigestValue>
+        <dsig:DigestValue>36CTxD8dTyqraywePdyNtEHoYs/wvZ19PO3s0QncZuE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

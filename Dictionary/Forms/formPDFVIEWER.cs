@@ -40,11 +40,7 @@ namespace Dictionary.Forms
             lblUsername.Text = UserName;
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            
-
-            }
+    
 
         private void btnScan_Click(object sender, EventArgs e)
         {
@@ -75,7 +71,7 @@ namespace Dictionary.Forms
 
                 //5th located the .pdf target path OR open file .pdf
                 findPDFfileName();
-
+                 MessageBox.Show("kindly check the filename above if correct batchnumber if no result scan again");
             }
         }
 
@@ -113,6 +109,7 @@ namespace Dictionary.Forms
         {
             string sourceFile = System.IO.Path.Combine(PathSource, _fileName);
             string destFile = System.IO.Path.Combine(PathTarget+UserName, _fileName);
+          
 
             System.IO.Directory.CreateDirectory(PathTarget + UserName);
 

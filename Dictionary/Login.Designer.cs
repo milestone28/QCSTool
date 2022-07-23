@@ -134,9 +134,9 @@
             this.label3.Location = new System.Drawing.Point(152, 275);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(92, 13);
+            this.label3.Size = new System.Drawing.Size(71, 13);
             this.label3.TabIndex = 21;
-            this.label3.Text = "Ver. 2021.08 GYU";
+            this.label3.Text = "Ver. 3.0 G.YU";
             // 
             // Login
             // 

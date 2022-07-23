@@ -294,6 +294,7 @@
             this.cmbScanstreet.Name = "cmbScanstreet";
             this.cmbScanstreet.Size = new System.Drawing.Size(204, 23);
             this.cmbScanstreet.TabIndex = 28;
+            this.cmbScanstreet.SelectedIndexChanged += new System.EventHandler(this.cmbScanstreet_SelectedIndexChanged);
             // 
             // label3
             // 

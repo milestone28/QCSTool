@@ -62,3 +62,41 @@ C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.applicati
 C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.csproj.CopyComplete
 C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.exe
 C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.pdb
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.csprojAssemblyReference.cache
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Interop.AcroPDFLib.dll
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.csproj.ResolveComReference.cache
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\LyantheTEST.AdminView.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.formMenu.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.formAutoDC.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.formLogs.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.formPDFVIEWER.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.formResetToCP.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.formServerManagement.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.formTerminology.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.formVFView.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.UC_BatchDelete.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.UC_ResetToCP.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.UC_UsersLogin.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.UC_UsersSetDC.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\WindowsFormsApp2.Users.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Login.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.csproj.GenerateResource.cache
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.csproj.CoreCompileInputs.cache
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\QCS Tool.exe.config
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\QCS Tool.exe.manifest
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\QCS Tool.application
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\QCS Tool.exe
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\QCS Tool.pdb
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\Ionic.Zip.dll
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\itextsharp.dll
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\itextsharp.xml
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\Interop.AcroPDFLib.dll
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.TrustInfo.xml
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.exe.manifest
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.application
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.csproj.CopyComplete
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.exe
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.pdb

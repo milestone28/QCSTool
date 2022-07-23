@@ -10,6 +10,10 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Configuration;
 using System.Text.RegularExpressions;
+using Dictionary.Variables;
+using Dictionary.Manager;
+using Dictionary.Models.Response;
+using Dictionary.Helpers;
 
 namespace Dictionary.Forms
 {
@@ -90,9 +94,7 @@ namespace Dictionary.Forms
                 }
 
                 else
-                {
-                 
-                        getServerDetails();
+                { 
                         Tlogging();
                 }
             }
@@ -116,21 +118,17 @@ namespace Dictionary.Forms
         {
             try
             {
-                con = new SqlConnection(path);
-                con.Open();
-                string query = ("select Groupname from tdocgroup");
-                SqlCommand cmd = new SqlCommand(query, con);
-                cmd.CommandType = CommandType.Text;
-                SqlDataReader dr = cmd.ExecuteReader();
-
-                while (dr.Read())
+                MyManager mgr = new MyManager(MyVariables.DataSource, MyVariables.InitialCatalog);
+                MyVariables.DBGlobalizeInfoList = mgr.GetDBServerInfo();
+                foreach (obj_SetupScanstreetInfo rr in MyVariables.DBGlobalizeInfoList)
                 {
-                    query = dr[0].ToString();
-                    cmbScanstreet.Items.Add(query);
+                    cmbScanstreet.Items.Add(rr.Id + " - " + rr.GroupName);
+                    cmbScanstreet.SelectedIndex = 0;
 
+                    //cmb_opsList.Items.Add(rr.Id + " - " + rr.GroupName);
+                    //cmb_opsList.SelectedIndex = 0;
                 }
-
-                con.Close();
+               
             }
             catch (Exception e)
             {
@@ -267,13 +265,21 @@ namespace Dictionary.Forms
 
             try
             {
-                searchDatabase con1 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC01_" + _typeOfService.ToString().PadLeft(6, '0') + ";Persist Security Info = True; User ID = MFOLogin; Password = wr4e4pla*");
-                searchDatabase con2 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC02_" + _typeOfService.ToString().PadLeft(6, '0') + ";Persist Security Info = True; User ID = MFOLogin; Password = wr4e4pla*");
-                searchDatabase con3 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC03_" + _typeOfService.ToString().PadLeft(6, '0') + ";Persist Security Info = True; User ID = MFOLogin; Password = wr4e4pla*");
-                searchDatabase con4 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC04_" + _typeOfService.ToString().PadLeft(6, '0') + ";Persist Security Info = True; User ID = MFOLogin; Password = wr4e4pla*");
-                searchDatabase con5 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC05_" + _typeOfService.ToString().PadLeft(6, '0') + ";Persist Security Info = True; User ID = MFOLogin; Password = wr4e4pla*");
 
-                searchDatabase[] cons = new searchDatabase[] { con1, con2, con3, con4, con5 };
+             
+                searchDatabase con1 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC01_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con2 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC02_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con3 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC03_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con4 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC04_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con5 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC05_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+
+                searchDatabase con6 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC01_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con7 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC02_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con8 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC03_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con9 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC04_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con10 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC05_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+
+                searchDatabase[] cons = new searchDatabase[] { con1, con2, con3, con4, con5, con6, con7, con8, con9, con10 };
 
                 var server = 1; //var for the server 
                
@@ -367,29 +373,29 @@ namespace Dictionary.Forms
 
 
 
-        public void getServerDetails()
-        {
-            try
-            {
-                con.Open();
+        //public void getServerDetails(string serverInfo)
+        //{
+        //    try
+        //    {
+        //        con.Open();
 
-               DataSet ds = new DataSet();
+        //       DataSet ds = new DataSet();
 
-                adpt = new SqlDataAdapter("select * from TDocGroup where GroupName = '"+cmbScanstreet.Text+"'", con);
-                adpt.Fill(ds);
+        //        adpt = new SqlDataAdapter(@"select * from [SRV-L-SQLB18\I01].MFO_SETTINGS.dbo.TDocGroup where GroupName = '" + serverInfo+"'", con);
+        //        adpt.Fill(ds);
 
-                _typeOfService = int.Parse(ds.Tables[0].Rows[0]["TypeOfService"].ToString());
-                _databaseBE = ds.Tables[0].Rows[0]["DBServerBE"].ToString();
-                _databaseFE = ds.Tables[0].Rows[0]["DBServerFE"].ToString();
-                _LyaOutPDF = ds.Tables[0].Rows[0]["LYAOUT"].ToString();
-                con.Close();
-            }
-            catch (Exception e)
-            {
-                MessageBox.Show(e.Message);
-            }
+        //        _typeOfService = int.Parse(ds.Tables[0].Rows[0]["TypeOfService"].ToString());
+        //        _databaseBE = ds.Tables[0].Rows[0]["DBServerBE"].ToString();
+        //        _databaseFE = ds.Tables[0].Rows[0]["DBServerFE"].ToString();
+        //        _LyaOutPDF = ds.Tables[0].Rows[0]["LYAOUT"].ToString();
+        //        con.Close();
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        MessageBox.Show(e.Message);
+        //    }
 
-        }
+        //}
 
 
         public void clear()
@@ -601,10 +607,35 @@ namespace Dictionary.Forms
 
         private void btnViewPdf_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("If you get error please install adobe reader");
             var Start = new Forms.formPDFVIEWER();
              Start.Show();
+        }
 
-           
+        private void cmbScanstreet_SelectedIndexChanged(object sender, EventArgs e)
+        {
+          
+            var serverValue = int.Parse(cmbScanstreet.Text.Substring(0, 2));
+
+            try
+            {
+                foreach (obj_SetupScanstreetInfo rr in MyVariables.DBGlobalizeInfoList)
+                {
+                    if (serverValue == rr.Id)
+                    {
+                                _typeOfService = rr.TypeOfService;
+                                _databaseBE = rr.DBServerDOC;
+                                _databaseFE = rr.DBServer;
+                                _LyaOutPDF = rr.LyaOUT;
+                    }
+
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Something went wrong");
+                MyVariables.Errortxt += MyHelpers.createErrorMsg("cmbScanstreet_SelectedIndexChanged : " + ex.ToString());
+            }
         }
     }
 }
