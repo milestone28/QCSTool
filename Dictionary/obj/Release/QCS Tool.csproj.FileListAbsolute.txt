@@ -1,0 +1,104 @@
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Menu.resources
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\Dictionary.UCVerifierView.resources
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\Dictionary.UC_AdminView.resources
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\Dictionary.UC_AutoDC.resources
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\Dictionary.UC_ResetToCp.resources
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Login.resources
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.GenerateResource.cache
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.CoreCompileInputs.cache
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.exe
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.pdb
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.exe.config
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.exe.manifest
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.application
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.exe
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.pdb
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.TrustInfo.xml
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.exe.manifest
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.application
+E:\1TB Backup\VISUAL STUDIO\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.CopyComplete
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.ResolveComReference.cache
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.formMenu.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formAutoDC.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formLogs.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formPDFVIEWER.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formResetToCP.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formServerManagement.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formTerminology.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formVFView.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.UC_BatchDelete.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.UC_ResetToCP.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.UC_UsersLogin.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.UC_UsersSetDC.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Login.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.GenerateResource.cache
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.CoreCompileInputs.cache
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.exe.config
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.exe.manifest
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.application
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.exe
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.pdb
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\DotNetZip.dll
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\itextsharp.dll
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\DotNetZip.pdb
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\DotNetZip.xml
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\itextsharp.xml
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.TrustInfo.xml
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.exe.manifest
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.application
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.CopyComplete
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.exe
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.pdb
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.exe
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.pdb
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.formMenu.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formAutoDC.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formLogs.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formPDFVIEWER.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formResetToCP.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formServerManagement.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formTerminology.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.formVFView.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.UC_BatchDelete.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.UC_ResetToCP.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.UC_UsersLogin.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Forms.UC_UsersSetDC.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Login.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.exe.config
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.exe.manifest
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.application
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.exe
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\QCS Tool.pdb
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\DotNetZip.dll
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\itextsharp.dll
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\DotNetZip.pdb
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\DotNetZip.xml
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\bin\Release\itextsharp.xml
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.TrustInfo.xml
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.exe.manifest
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.application
+C:\Users\admin\Desktop\LYANTHE\repos 09-21-2021\QCS Tool 2021\Dictionary\obj\Release\QCS Tool.csproj.CopyComplete

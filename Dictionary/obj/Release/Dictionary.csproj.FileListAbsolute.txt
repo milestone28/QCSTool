@@ -1,0 +1,147 @@
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Release\Dictionary.exe.config
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Release\Dictionary.exe
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Release\Dictionary.pdb
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.csprojAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.Login.resources
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CopyComplete
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.exe
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.pdb
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Release\Dictionary.exe.manifest
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Release\Dictionary.application
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.TrustInfo.xml
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.exe.manifest
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Release\Dictionary.application
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.exe.config
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.exe.manifest
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.application
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.exe
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.pdb
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Login.resources
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.TrustInfo.xml
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.exe.manifest
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.application
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CopyComplete
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.exe
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.pdb
+D:\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.exe.config
+D:\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.exe.manifest
+D:\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.application
+D:\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.exe
+D:\Dictionary (2)\Dictionary\Dictionary\bin\Release\Dictionary.pdb
+D:\Dictionary (2)\Dictionary\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Login.resources
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.TrustInfo.xml
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.exe.manifest
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.application
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CopyComplete
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.exe
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.pdb
+D:\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csprojAssemblyReference.cache
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Login.resources
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CoreCompileInputs.cache
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CopyComplete
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Menu.resources
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_AdminView.resources
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UCVerifierView.resources
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_AutoDC.resources
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe.config
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe.manifest
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.application
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.pdb
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.TrustInfo.xml
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.exe.manifest
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.application
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.exe
+F:\LYANTHE\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.pdb
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe.config
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe.manifest
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.application
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.pdb
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Menu.resources
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UCVerifierView.resources
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_AdminView.resources
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_AutoDC.resources
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Login.resources
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CoreCompileInputs.cache
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.TrustInfo.xml
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.exe.manifest
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.application
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CopyComplete
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.exe
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.pdb
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_ResetToCp.resources
+F:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csprojAssemblyReference.cache
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe.config
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe.manifest
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.application
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.pdb
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Menu.resources
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UCVerifierView.resources
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_AdminView.resources
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_AutoDC.resources
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_ResetToCp.resources
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Login.resources
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.TrustInfo.xml
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.exe.manifest
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.application
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CopyComplete
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.exe
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.pdb
+E:\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.AssemblyReference.cache
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe.config
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe.manifest
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.application
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.exe
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\QCS Tool.pdb
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\bin\Release\Bunifu_UI_v1.5.3.dll
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.AssemblyReference.cache
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\LyantheTEST.AdminView.resources
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Menu.resources
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UCVerifierView.resources
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_AdminView.resources
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_AutoDC.resources
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.UC_ResetToCp.resources
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\WindowsFormsApp2.Users.resources
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Login.resources
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.Properties.Resources.resources
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.GenerateResource.cache
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CoreCompileInputs.cache
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.TrustInfo.xml
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.exe.manifest
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.application
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\Dictionary.csproj.CopyComplete
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.exe
+E:\1TB Backup\VISUAL STUDIO\Dictionary (2)\Dictionary\Dictionary\obj\Release\QCS Tool.pdb

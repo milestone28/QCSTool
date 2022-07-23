@@ -1,0 +1,44 @@
+c:\users\gary\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+c:\users\gary\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+c:\users\gary\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\gary\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+c:\users\gary\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+c:\users\gary\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+c:\users\gary\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Login.resources
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.adminForm.resources
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Users.resources
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CopyComplete
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\LyantheTEST.AdminView.resources
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\WindowsFormsApp2.Users.resources
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Login.resources
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CopyComplete
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Debug\Dictionary.exe.manifest
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Debug\Dictionary.application
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\LyantheTEST.AdminView.resources
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\WindowsFormsApp2.Users.resources
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.Login.resources
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.TrustInfo.xml
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.exe.manifest
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.application
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CopyComplete
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\Visual Studio 2015\Projects\Dictionary (2)\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

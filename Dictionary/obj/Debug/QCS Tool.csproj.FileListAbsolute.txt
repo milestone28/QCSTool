@@ -1,0 +1,64 @@
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Debug\QCS Tool.exe.config
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Debug\QCS Tool.exe.manifest
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Debug\QCS Tool.application
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Debug\QCS Tool.exe
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Debug\QCS Tool.pdb
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\LyantheTEST.AdminView.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\Dictionary.Menu.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\Dictionary.UCVerifierView.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\Dictionary.UC_AdminView.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\Dictionary.UC_AutoDC.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\Dictionary.UC_ResetToCp.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\WindowsFormsApp2.Users.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\Dictionary.Login.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\QCS Tool.csproj.GenerateResource.cache
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\QCS Tool.csproj.CoreCompileInputs.cache
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\QCS Tool.TrustInfo.xml
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\QCS Tool.exe.manifest
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\QCS Tool.application
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\QCS Tool.csproj.CopyComplete
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\QCS Tool.exe
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\QCS Tool.pdb
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\Dictionary.formMenu.resources
+C:\Users\garz0\repos\QCS Tool 2021\Dictionary\obj\Debug\Dictionary.Forms.formTerminology.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\QCS Tool.exe.config
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\QCS Tool.exe.manifest
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\QCS Tool.application
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\QCS Tool.exe
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\QCS Tool.pdb
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\DotNetZip.dll
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\DotNetZip.pdb
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\DotNetZip.xml
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\LyantheTEST.AdminView.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.formMenu.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.formAutoDC.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.formLogs.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.formPDFVIEWER.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.formResetToCP.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.formServerManagement.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.formTerminology.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.formVFView.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.UC_BatchDelete.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.UC_ResetToCP.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.UC_UsersLogin.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Forms.UC_UsersSetDC.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\WindowsFormsApp2.Users.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Login.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.TrustInfo.xml
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.exe.manifest
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.application
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.csproj.CopyComplete
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.exe
+C:\Users\admin\Desktop\LYANTHE\QCSTOOLv3\Dictionary\obj\Debug\QCS Tool.pdb
