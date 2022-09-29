@@ -273,11 +273,11 @@ namespace Dictionary.Forms
                 searchDatabase con4 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC04_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
                 searchDatabase con5 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC05_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
 
-                searchDatabase con6 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC01_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
-                searchDatabase con7 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC02_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
-                searchDatabase con8 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC03_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
-                searchDatabase con9 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC04_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
-                searchDatabase con10 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC05_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con6 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC06_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con7 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC07_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con8 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC08_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con9 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC09_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
+                searchDatabase con10 = new searchDatabase(@"Data Source = " + _databaseBE + ";Initial Catalog = MFO_DOC10_" + _typeOfService.ToString().PadLeft(6, '0') + MyVariables.AuthDB);
 
                 searchDatabase[] cons = new searchDatabase[] { con1, con2, con3, con4, con5, con6, con7, con8, con9, con10 };
 
@@ -298,7 +298,7 @@ namespace Dictionary.Forms
 
                                }
 
-                             if (server == 6)
+                             if (server == 11)
                             {
                                 MessageBox.Show(" batch not found ");
                                 break;

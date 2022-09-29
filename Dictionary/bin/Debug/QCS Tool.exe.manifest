@@ -103,14 +103,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QCS Tool.exe" size="6580224">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QCS Tool.exe" size="6580736">
       <assemblyIdentity name="QCS Tool" version="1.0.0.3" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Wh0RU4kmaFKRC+joO/6ckN34xhZW+YGTxvJJWneXMT8=</dsig:DigestValue>
+        <dsig:DigestValue>0guy5GQ4MTCIYiEHwxkzrc+JSQVNirY+pAnZF/iwxa4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
