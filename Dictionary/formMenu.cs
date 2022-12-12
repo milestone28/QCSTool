@@ -22,7 +22,7 @@ namespace Dictionary
             MainUserName = UserName;
 
 
-            if (lblUser.Text == @"SRV\apptestuser" || lblUser.Text == @"SRV\a.lasaca" || lblUser.Text == @"SRV\p.lara" || lblUser.Text == @"SRV\admgyu")
+            if (lblUser.Text == @"SRV\apptestuser" || lblUser.Text == @"SRV\j.villamor" || lblUser.Text == @"SRV\p.lara" || lblUser.Text == @"SRV\e.banghe" || lblUser.Text == @"SRV\admgyu")
             {
                 btnAutoDC.Enabled = true;
                 btnBatchMGMT.Enabled = true;
@@ -43,7 +43,7 @@ namespace Dictionary
 
         private void btnTerminology_Click(object sender, EventArgs e)
         {
-            if (lblUser.Text == @"SRV\apptestuser" || lblUser.Text == @"SRV\a.lasaca" || lblUser.Text == @"SRV\p.lara" || lblUser.Text == @"SRV\admgyu")
+            if (lblUser.Text == @"SRV\apptestuser" || lblUser.Text == @"SRV\j.villamor" || lblUser.Text == @"SRV\p.lara" || lblUser.Text == @"SRV\e.banghe" || lblUser.Text == @"SRV\admgyu")
             {
                 var Start = new Forms.formTerminology();
                 Start.Show();
@@ -74,8 +74,6 @@ namespace Dictionary
                 SendMessage(Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);
             }
         }
-
-
 
         private void panel1_MouseDown(object sender, MouseEventArgs e)
         {

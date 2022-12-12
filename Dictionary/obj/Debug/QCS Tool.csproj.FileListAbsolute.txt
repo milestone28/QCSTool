@@ -83,7 +83,6 @@ C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug
 C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Login.resources
 C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
 C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.csproj.GenerateResource.cache
-C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.csproj.CoreCompileInputs.cache
 C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\QCS Tool.exe.config
 C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\QCS Tool.exe.manifest
 C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\bin\Debug\QCS Tool.application
@@ -100,3 +99,4 @@ C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug
 C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.csproj.CopyComplete
 C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.exe
 C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\QCS Tool.pdb
+C:\Personal Folders\Gary Yu\APPLICATION FOR TEST\QCSTool_v3\Dictionary\obj\Debug\Dictionary.Forms.formPopup.resources

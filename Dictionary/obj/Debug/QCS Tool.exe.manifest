@@ -4,7 +4,7 @@
   <description asmv2:iconFile="bulb_curvy_flat_okr_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="QCS Tool" version="1.0.0.3" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="QCS Tool" version="3.0.0.4" language="neutral" processorArchitecture="msil" />
     <commandLine file="QCS Tool.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>zr4Jr2Djp7oKIFrqLim0en2dw9P43Usfy5QWtEMOeTk=</dsig:DigestValue>
+        <dsig:DigestValue>CnEiufkGeatf8Tlopga0UUry8RBblcqo5SNHw74dy9U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -103,14 +103,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QCS Tool.exe" size="6580736">
-      <assemblyIdentity name="QCS Tool" version="1.0.0.3" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QCS Tool.exe" size="6647808">
+      <assemblyIdentity name="QCS Tool" version="3.0.0.4" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0guy5GQ4MTCIYiEHwxkzrc+JSQVNirY+pAnZF/iwxa4=</dsig:DigestValue>
+        <dsig:DigestValue>CXJF2zZHIHmnVVNrRu4QzFmxNO3Trn/i2CTwzXDvmE8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

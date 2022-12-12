@@ -37,7 +37,7 @@ namespace Dictionary
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            //read out app.config Params
+            //read out app.config Paramsq2
             PrincipalContext ctx = new PrincipalContext(ContextType.Domain, ConfigurationManager.AppSettings["DOMEIN"]);
             GroupPrincipal group = GroupPrincipal.FindByIdentity(ctx, ConfigurationManager.AppSettings["GROEP"]);
             UserPrincipal user = UserPrincipal.FindByIdentity(ctx, txtUserName.Text);
